@@ -6,3 +6,9 @@
    1. The input arrays have the same length (same number of vectors).
    1. Prototype in pure Python (loop over the arrays).
    1. Make Numpy equivalent without loops.
+
+## Data structures
+
+1. Using 'faces.obj'
+   1. Define a function for traversing the mesh from boundary to boundary in a "straight" line.
+   1. Visualise the result.

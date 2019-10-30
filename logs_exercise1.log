@@ -1,0 +1,12 @@
+
+The main two vectors are: 
+v1 = [-1.84, 1.50990, -5.99252], 
+v2 = [-9.28788, 4.28567, -6.37724]
+
+The third vector perpendicular on the plain passing from the main two vectors is: 
+v3 = [16.05, 43.93,  6.14]
+
+The resulted three orthonormalvectors are: 
+e1 = [-0.29,  0.23, -0.93], 
+e2 = [-0.90,  0.28,  0.35], 
+e3 = [-0.90,  0.28,  0.35]

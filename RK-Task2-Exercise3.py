@@ -1,6 +1,6 @@
 """
 Created on Mon Oct 28 23:22:05 2019
-@author: Reza Kakooee, kakooee@arch.ethz.ch for ITA19
+@author: RK
 Task2, Exercise3:
 Define a function for computing the cross products of two arrays of vectors.
    1. The input arrays have the same length (same number of vectors).

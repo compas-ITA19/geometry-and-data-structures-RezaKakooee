@@ -1,6 +1,6 @@
 """
 Created on Sun Oct 27 19:13:32 2019
-@author: Reza Kakooee, kakooee@arch.ethz.ch for ITA19
+@author: RK
 Task2, Exercise1: 
 Use the cross product to compute the area of a convex, 2D polygon
 """

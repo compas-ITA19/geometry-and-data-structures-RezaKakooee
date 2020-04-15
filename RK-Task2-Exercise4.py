@@ -1,6 +1,6 @@
 """
 Created on Wed Oct 30 17:23:52 2019
-@author: Reza Kakooee, kakooee@arch.ethz.ch for ITA19
+@author: RK
 Task2: Ecercise4
 Using 'faces.obj'
    1. Define a function for traversing the mesh from boundary to boundary in a "straight" line.

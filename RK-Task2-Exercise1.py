@@ -1,6 +1,6 @@
 """
 Created on Tue Oct 27 18:03:15 2019
-@author: Reza Kakooee, kakooee@arch.ethz.ch
+@author: RK
 Task2, Exercise1: 
 Given two vectors, use the cross product to create a set of three orthonormal vectors.
 """
